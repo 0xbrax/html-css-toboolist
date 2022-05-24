@@ -95,6 +95,10 @@ h2::before {
     border: 1.5px solid #EB5851;
 }
 
+.container {
+    padding-top: 10px;
+}
+
 .label {
     color: #FFF;
     font-size: 10px;
