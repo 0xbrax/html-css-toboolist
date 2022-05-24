@@ -10,20 +10,15 @@ body {
 }
 
 header {
-    height: 70px;
     background-color: #FFF;
-    line-height: 70px;
-    padding-left: 15px;
+    padding: 15px;
 }
 
 #logo-img {
-    height: 50px;
     vertical-align: middle;
 }
 
 #logo-txt {
-    display: inline-block;
-    height: 70px;
     font-size: 40px;
     font-weight: 700;
     vertical-align: middle;
