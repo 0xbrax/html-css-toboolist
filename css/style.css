@@ -70,7 +70,7 @@ header {
 }
 
 h2::before {
-    content: '\1F893';
+    content: '\23F7';
 }
 
 .check-yes::before {
@@ -107,8 +107,9 @@ h2::before {
 .label {
     color: #FFF;
     font-size: 10px;
+    font-weight: 700;
     border-radius: 10px;
-    padding: 10px;
+    padding: 7.5px;
 }
 
 .color1 {
